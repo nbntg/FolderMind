@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+frontend/node_modules/
+frontend/dist/
+foldermind_file_list.md
+*.pyc
+.npm-cache/
+build/
+release/
+history/
+config/config.json
