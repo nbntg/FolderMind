@@ -8,11 +8,6 @@
 
 FolderMind 是一个 Windows 桌面文件整理工具：扫描文件夹，让 AI 生成整理方案，先预览，再安全执行。
 
-## 截图
-
-> 建议把中文主界面截图放到 `docs/images/zh/main.png`，然后取消下面这一行的注释。
-
-<!-- ![FolderMind 主界面](docs/images/zh/main.png) -->
 
 ## 功能特性
 
