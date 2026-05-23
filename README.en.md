@@ -4,7 +4,7 @@ English | [中文](README.md)
 
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-![License](https://img.shields.io/badge/License-TBD-orange)
+![License](https://img.shields.io/badge/License-GPL--3.0-blue)
 
 FolderMind is a Windows desktop tool for scanning a folder, asking AI to generate an organization plan, previewing the plan, and safely executing file operations.
 
