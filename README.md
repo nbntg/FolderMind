@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-![License](https://img.shields.io/badge/License-TBD-orange)
+![License](https://img.shields.io/badge/License-GPL--3.0-blue)
 
 FolderMind 是一个 Windows 桌面文件整理工具：扫描文件夹，让 AI 生成整理方案，先预览，再安全执行。
 
