@@ -8,11 +8,6 @@ English | [中文](README.md)
 
 FolderMind is a Windows desktop tool for scanning a folder, asking AI to generate an organization plan, previewing the plan, and safely executing file operations.
 
-## Screenshot
-
-> Put the English main interface screenshot at `docs/images/en/main.png`, then uncomment the line below.
-
-<!-- ![FolderMind main interface](docs/images/en/main.png) -->
 
 ## Features
 
